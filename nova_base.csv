@@ -1,0 +1,811 @@
+estado,Grande,Ano,Estoque
+AC,Adm Publica,2010,59000
+AC,Agricultura,2010,3268
+AC,Comercio,2010,19135
+AC,Industria,2010,16627
+AC,Serviços,2010,24220
+AL,Adm Publica,2010,147952
+AL,Agricultura,2010,9823
+AL,Comercio,2010,72710
+AL,Industria,2010,137341
+AL,Serviços,2010,103180
+AM,Adm Publica,2010,190443
+AM,Agricultura,2010,3023
+AM,Comercio,2010,80244
+AM,Industria,2010,146441
+AM,Serviços,2010,154525
+AP,Adm Publica,2010,49827
+AP,Agricultura,2010,1017
+AP,Comercio,2010,21024
+AP,Industria,2010,9827
+AP,Serviços,2010,26141
+BA,Adm Publica,2010,614372
+BA,Agricultura,2010,93200
+BA,Comercio,2010,385397
+BA,Industria,2010,410551
+BA,Serviços,2010,635712
+CE,Adm Publica,2010,388599
+CE,Agricultura,2010,22151
+CE,Comercio,2010,207548
+CE,Industria,2010,333996
+CE,Serviços,2010,373498
+DF,Adm Publica,2010,417095
+DF,Agricultura,2010,6409
+DF,Comercio,2010,161928
+DF,Industria,2010,107090
+DF,Serviços,2010,407310
+ES,Adm Publica,2010,168408
+ES,Agricultura,2010,31832
+ES,Comercio,2010,176830
+ES,Industria,2010,195256
+ES,Serviços,2010,288095
+GO,Adm Publica,2010,340057
+GO,Agricultura,2010,81861
+GO,Comercio,2010,249476
+GO,Industria,2010,297284
+GO,Serviços,2010,344963
+MA,Adm Publica,2010,255951
+MA,Agricultura,2010,21333
+MA,Comercio,2010,117891
+MA,Industria,2010,104961
+MA,Serviços,2010,136756
+MG,Adm Publica,2010,886825
+MG,Agricultura,2010,267397
+MG,Comercio,2010,883901
+MG,Industria,2010,1196065
+MG,Serviços,2010,1412703
+MS,Adm Publica,2010,134662
+MS,Agricultura,2010,64503
+MS,Comercio,2010,106578
+MS,Industria,2010,111346
+MS,Serviços,2010,143700
+MT,Adm Publica,2010,131440
+MT,Agricultura,2010,88965
+MT,Comercio,2010,155016
+MT,Industria,2010,132812
+MT,Serviços,2010,148309
+PA,Adm Publica,2010,343797
+PA,Agricultura,2010,42333
+PA,Comercio,2010,176284
+PA,Industria,2010,173921
+PA,Serviços,2010,215255
+PB,Adm Publica,2010,246018
+PB,Agricultura,2010,14132
+PB,Comercio,2010,83235
+PB,Industria,2010,116040
+PB,Serviços,2010,119477
+PE,Adm Publica,2010,398125
+PE,Agricultura,2010,51006
+PE,Comercio,2010,262860
+PE,Industria,2010,354645
+PE,Serviços,2010,469990
+PI,Adm Publica,2010,140699
+PI,Agricultura,2010,6813
+PI,Comercio,2010,71242
+PI,Industria,2010,63488
+PI,Serviços,2010,94954
+PR,Adm Publica,2010,423209
+PR,Agricultura,2010,106428
+PR,Comercio,2010,585955
+PR,Industria,2010,812984
+PR,Serviços,2010,855139
+RJ,Adm Publica,2010,745063
+RJ,Agricultura,2010,22304
+RJ,Comercio,2010,779506
+RJ,Industria,2010,723378
+RJ,Serviços,2010,1809831
+RN,Adm Publica,2010,185217
+RN,Agricultura,2010,14234
+RN,Comercio,2010,101240
+RN,Industria,2010,128258
+RN,Serviços,2010,146679
+RO,Adm Publica,2010,113303
+RO,Agricultura,2010,10394
+RO,Comercio,2010,71608
+RO,Industria,2010,78882
+RO,Serviços,2010,60103
+RR,Adm Publica,2010,38550
+RR,Agricultura,2010,833
+RR,Comercio,2010,13461
+RR,Industria,2010,9956
+RR,Serviços,2010,15785
+RS,Adm Publica,2010,447442
+RS,Agricultura,2010,83293
+RS,Comercio,2010,557308
+RS,Industria,2010,863437
+RS,Serviços,2010,852682
+SC,Adm Publica,2010,233535
+SC,Agricultura,2010,45202
+SC,Comercio,2010,392030
+SC,Industria,2010,735877
+SC,Serviços,2010,563010
+SE,Adm Publica,2010,119915
+SE,Agricultura,2010,13555
+SE,Comercio,2010,55810
+SE,Industria,2010,79003
+SE,Serviços,2010,101282
+SP,Adm Publica,2010,1633859
+SP,Agricultura,2010,329399
+SP,Comercio,2010,2484504
+SP,Industria,2010,3423984
+SP,Serviços,2010,5001859
+TO,Adm Publica,2010,113022
+TO,Agricultura,2010,15357
+TO,Comercio,2010,40108
+TO,Industria,2010,32007
+TO,Serviços,2010,38461
+AC,Adm Publica,2011,53508
+AC,Agricultura,2011,3067
+AC,Comercio,2011,22659
+AC,Industria,2011,15538
+AC,Serviços,2011,27391
+AL,Adm Publica,2011,149324
+AL,Agricultura,2011,9747
+AL,Comercio,2011,78030
+AL,Industria,2011,148716
+AL,Serviços,2011,112246
+AM,Adm Publica,2011,173278
+AM,Agricultura,2011,3252
+AM,Comercio,2011,85227
+AM,Industria,2011,174343
+AM,Serviços,2011,160968
+AP,Adm Publica,2011,52495
+AP,Agricultura,2011,1086
+AP,Comercio,2011,23777
+AP,Industria,2011,12757
+AP,Serviços,2011,28828
+BA,Adm Publica,2011,629395
+BA,Agricultura,2011,99110
+BA,Comercio,2011,420739
+BA,Industria,2011,431180
+BA,Serviços,2011,685194
+CE,Adm Publica,2011,404904
+CE,Agricultura,2011,24183
+CE,Comercio,2011,228363
+CE,Industria,2011,345526
+CE,Serviços,2011,403930
+DF,Adm Publica,2011,427678
+DF,Agricultura,2011,7093
+DF,Comercio,2011,168756
+DF,Industria,2011,117040
+DF,Serviços,2011,436341
+ES,Adm Publica,2011,169697
+ES,Agricultura,2011,33281
+ES,Comercio,2011,186472
+ES,Industria,2011,205528
+ES,Serviços,2011,307092
+GO,Adm Publica,2011,335618
+GO,Agricultura,2011,83837
+GO,Comercio,2011,263500
+GO,Industria,2011,325583
+GO,Serviços,2011,376692
+MA,Adm Publica,2011,260350
+MA,Agricultura,2011,26142
+MA,Comercio,2011,126504
+MA,Industria,2011,105988
+MA,Serviços,2011,156567
+MG,Adm Publica,2011,902577
+MG,Agricultura,2011,273879
+MG,Comercio,2011,916900
+MG,Industria,2011,1240679
+MG,Serviços,2011,1516941
+MS,Adm Publica,2011,136425
+MS,Agricultura,2011,67064
+MS,Comercio,2011,114300
+MS,Industria,2011,119650
+MS,Serviços,2011,160529
+MT,Adm Publica,2011,141443
+MT,Agricultura,2011,95059
+MT,Comercio,2011,168142
+MT,Industria,2011,141766
+MT,Serviços,2011,162967
+PA,Adm Publica,2011,373479
+PA,Agricultura,2011,49499
+PA,Comercio,2011,187929
+PA,Industria,2011,187046
+PA,Serviços,2011,239404
+PB,Adm Publica,2011,250792
+PB,Agricultura,2011,14702
+PB,Comercio,2011,90230
+PB,Industria,2011,129031
+PB,Serviços,2011,129442
+PE,Adm Publica,2011,413734
+PE,Agricultura,2011,46541
+PE,Comercio,2011,285068
+PE,Industria,2011,384904
+PE,Serviços,2011,518680
+PI,Adm Publica,2011,141792
+PI,Agricultura,2011,8506
+PI,Comercio,2011,75362
+PI,Industria,2011,63579
+PI,Serviços,2011,103847
+PR,Adm Publica,2011,439407
+PR,Agricultura,2011,104730
+PR,Comercio,2011,617790
+PR,Industria,2011,846548
+PR,Serviços,2011,911802
+RJ,Adm Publica,2011,804625
+RJ,Agricultura,2011,22604
+RJ,Comercio,2011,814301
+RJ,Industria,2011,783712
+RJ,Serviços,2011,1923810
+RN,Adm Publica,2011,189546
+RN,Agricultura,2011,14995
+RN,Comercio,2011,106667
+RN,Industria,2011,129131
+RN,Serviços,2011,152721
+RO,Adm Publica,2011,117858
+RO,Agricultura,2011,10919
+RO,Comercio,2011,75993
+RO,Industria,2011,79894
+RO,Serviços,2011,67796
+RR,Adm Publica,2011,49220
+RR,Agricultura,2011,1136
+RR,Comercio,2011,14477
+RR,Industria,2011,7532
+RR,Serviços,2011,19623
+RS,Adm Publica,2011,452273
+RS,Agricultura,2011,84715
+RS,Comercio,2011,583779
+RS,Industria,2011,898640
+RS,Serviços,2011,901182
+SC,Adm Publica,2011,242512
+SC,Agricultura,2011,45054
+SC,Comercio,2011,412205
+SC,Industria,2011,763197
+SC,Serviços,2011,598609
+SE,Adm Publica,2011,119059
+SE,Agricultura,2011,13842
+SE,Comercio,2011,60242
+SE,Industria,2011,84062
+SE,Serviços,2011,108467
+SP,Adm Publica,2011,1615890
+SP,Agricultura,2011,361435
+SP,Comercio,2011,2586375
+SP,Industria,2011,3538287
+SP,Serviços,2011,5310792
+TO,Adm Publica,2011,106023
+TO,Agricultura,2011,17155
+TO,Comercio,2011,42541
+TO,Industria,2011,32440
+TO,Serviços,2011,44610
+AC,Adm Publica,2012,52978
+AC,Agricultura,2012,3058
+AC,Comercio,2012,24244
+AC,Industria,2012,16231
+AC,Serviços,2012,29677
+AL,Adm Publica,2012,149954
+AL,Agricultura,2012,8940
+AL,Comercio,2012,83664
+AL,Industria,2012,144338
+AL,Serviços,2012,118404
+AM,Adm Publica,2012,181039
+AM,Agricultura,2012,3112
+AM,Comercio,2012,89341
+AM,Industria,2012,170418
+AM,Serviços,2012,171508
+AP,Adm Publica,2012,50330
+AP,Agricultura,2012,959
+AP,Comercio,2012,24482
+AP,Industria,2012,13885
+AP,Serviços,2012,32890
+BA,Adm Publica,2012,576218
+BA,Agricultura,2012,95863
+BA,Comercio,2012,424822
+BA,Industria,2012,433579
+BA,Serviços,2012,726139
+CE,Adm Publica,2012,376781
+CE,Agricultura,2012,24716
+CE,Comercio,2012,243499
+CE,Industria,2012,348913
+CE,Serviços,2012,429739
+DF,Adm Publica,2012,428707
+DF,Agricultura,2012,7171
+DF,Comercio,2012,172586
+DF,Industria,2012,123181
+DF,Serviços,2012,450004
+ES,Adm Publica,2012,168057
+ES,Agricultura,2012,31922
+ES,Comercio,2012,195069
+ES,Industria,2012,210100
+ES,Serviços,2012,321188
+GO,Adm Publica,2012,320624
+GO,Agricultura,2012,86624
+GO,Comercio,2012,289297
+GO,Industria,2012,349160
+GO,Serviços,2012,404360
+MA,Adm Publica,2012,257740
+MA,Agricultura,2012,25448
+MA,Comercio,2012,135569
+MA,Industria,2012,106229
+MA,Serviços,2012,171653
+MG,Adm Publica,2012,848361
+MG,Agricultura,2012,262777
+MG,Comercio,2012,957875
+MG,Industria,2012,1284585
+MG,Serviços,2012,1574627
+MS,Adm Publica,2012,121393
+MS,Agricultura,2012,66156
+MS,Comercio,2012,120002
+MS,Industria,2012,132198
+MS,Serviços,2012,177444
+MT,Adm Publica,2012,142621
+MT,Agricultura,2012,99356
+MT,Comercio,2012,177412
+MT,Industria,2012,152013
+MT,Serviços,2012,173156
+PA,Adm Publica,2012,336442
+PA,Agricultura,2012,53159
+PA,Comercio,2012,203016
+PA,Industria,2012,204452
+PA,Serviços,2012,255685
+PB,Adm Publica,2012,244729
+PB,Agricultura,2012,12321
+PB,Comercio,2012,94827
+PB,Industria,2012,134397
+PB,Serviços,2012,141118
+PE,Adm Publica,2012,385054
+PE,Agricultura,2012,43242
+PE,Comercio,2012,309817
+PE,Industria,2012,399316
+PE,Serviços,2012,557218
+PI,Adm Publica,2012,149885
+PI,Agricultura,2012,9065
+PI,Comercio,2012,80448
+PI,Industria,2012,68209
+PI,Serviços,2012,110482
+PR,Adm Publica,2012,482822
+PR,Agricultura,2012,104735
+PR,Comercio,2012,642074
+PR,Industria,2012,851010
+PR,Serviços,2012,953024
+RJ,Adm Publica,2012,776009
+RJ,Agricultura,2012,21821
+RJ,Comercio,2012,841275
+RJ,Industria,2012,827421
+RJ,Serviços,2012,1995180
+RN,Adm Publica,2012,181185
+RN,Agricultura,2012,14709
+RN,Comercio,2012,113058
+RN,Industria,2012,129093
+RN,Serviços,2012,164836
+RO,Adm Publica,2012,117497
+RO,Agricultura,2012,11358
+RO,Comercio,2012,80799
+RO,Industria,2012,82936
+RO,Serviços,2012,72552
+RR,Adm Publica,2012,47744
+RR,Agricultura,2012,1235
+RR,Comercio,2012,15494
+RR,Industria,2012,8498
+RR,Serviços,2012,20806
+RS,Adm Publica,2012,453125
+RS,Agricultura,2012,82064
+RS,Comercio,2012,609529
+RS,Industria,2012,896713
+RS,Serviços,2012,951600
+SC,Adm Publica,2012,242796
+SC,Agricultura,2012,42868
+SC,Comercio,2012,423461
+SC,Industria,2012,761657
+SC,Serviços,2012,632220
+SE,Adm Publica,2012,113123
+SE,Agricultura,2012,13070
+SE,Comercio,2012,63154
+SE,Industria,2012,85858
+SE,Serviços,2012,113134
+SP,Adm Publica,2012,1682398
+SP,Agricultura,2012,350444
+SP,Comercio,2012,2681646
+SP,Industria,2012,3518964
+SP,Serviços,2012,5550089
+TO,Adm Publica,2012,101400
+TO,Agricultura,2012,16987
+TO,Comercio,2012,46208
+TO,Industria,2012,32792
+TO,Serviços,2012,48973
+AC,Adm Publica,2013,54334
+AC,Agricultura,2013,3272
+AC,Comercio,2013,24023
+AC,Industria,2013,16066
+AC,Serviços,2013,32628
+AL,Adm Publica,2013,156125
+AL,Agricultura,2013,9519
+AL,Comercio,2013,89048
+AL,Industria,2013,131807
+AL,Serviços,2013,122811
+AM,Adm Publica,2013,190490
+AM,Agricultura,2013,3490
+AM,Comercio,2013,96378
+AM,Industria,2013,180408
+AM,Serviços,2013,172554
+AP,Adm Publica,2013,49957
+AP,Agricultura,2013,1016
+AP,Comercio,2013,26095
+AP,Industria,2013,15310
+AP,Serviços,2013,33933
+BA,Adm Publica,2013,588171
+BA,Agricultura,2013,94510
+BA,Comercio,2013,442796
+BA,Industria,2013,444174
+BA,Serviços,2013,745256
+CE,Adm Publica,2013,397264
+CE,Agricultura,2013,25637
+CE,Comercio,2013,257609
+CE,Industria,2013,362358
+CE,Serviços,2013,453055
+DF,Adm Publica,2013,500147
+DF,Agricultura,2013,7824
+DF,Comercio,2013,175966
+DF,Industria,2013,120896
+DF,Serviços,2013,497451
+ES,Adm Publica,2013,178805
+ES,Agricultura,2013,33859
+ES,Comercio,2013,201648
+ES,Industria,2013,206837
+ES,Serviços,2013,333642
+GO,Adm Publica,2013,350983
+GO,Agricultura,2013,89666
+GO,Comercio,2013,291494
+GO,Industria,2013,355746
+GO,Serviços,2013,421506
+MA,Adm Publica,2013,265154
+MA,Agricultura,2013,22848
+MA,Comercio,2013,142121
+MA,Industria,2013,108311
+MA,Serviços,2013,183356
+MG,Adm Publica,2013,900407
+MG,Agricultura,2013,269119
+MG,Comercio,2013,989217
+MG,Industria,2013,1292894
+MG,Serviços,2013,1605443
+MS,Adm Publica,2013,127172
+MS,Agricultura,2013,67359
+MS,Comercio,2013,125550
+MS,Industria,2013,139942
+MS,Serviços,2013,175602
+MT,Adm Publica,2013,149267
+MT,Agricultura,2013,100749
+MT,Comercio,2013,189425
+MT,Industria,2013,166229
+MT,Serviços,2013,187198
+PA,Adm Publica,2013,377631
+PA,Agricultura,2013,53537
+PA,Comercio,2013,211917
+PA,Industria,2013,219282
+PA,Serviços,2013,263589
+PB,Adm Publica,2013,256773
+PB,Agricultura,2013,13628
+PB,Comercio,2013,99900
+PB,Industria,2013,137693
+PB,Serviços,2013,150647
+PE,Adm Publica,2013,410656
+PE,Agricultura,2013,44307
+PE,Comercio,2013,311086
+PE,Industria,2013,406637
+PE,Serviços,2013,585796
+PI,Adm Publica,2013,160163
+PI,Agricultura,2013,8989
+PI,Comercio,2013,84413
+PI,Industria,2013,72651
+PI,Serviços,2013,117605
+PR,Adm Publica,2013,473149
+PR,Agricultura,2013,106100
+PR,Comercio,2013,665547
+PR,Industria,2013,881244
+PR,Serviços,2013,995344
+RJ,Adm Publica,2013,801909
+RJ,Agricultura,2013,22107
+RJ,Comercio,2013,867915
+RJ,Industria,2013,842239
+RJ,Serviços,2013,2052620
+RN,Adm Publica,2013,184618
+RN,Agricultura,2013,15207
+RN,Comercio,2013,117148
+RN,Industria,2013,127980
+RN,Serviços,2013,173293
+RO,Adm Publica,2013,119292
+RO,Agricultura,2013,11931
+RO,Comercio,2013,83409
+RO,Industria,2013,77490
+RO,Serviços,2013,75523
+RR,Adm Publica,2013,46304
+RR,Agricultura,2013,1413
+RR,Comercio,2013,16441
+RR,Industria,2013,7791
+RR,Serviços,2013,20208
+RS,Adm Publica,2013,470007
+RS,Agricultura,2013,83758
+RS,Comercio,2013,624923
+RS,Industria,2013,919529
+RS,Serviços,2013,984596
+SC,Adm Publica,2013,256376
+SC,Agricultura,2013,44459
+SC,Comercio,2013,439898
+SC,Industria,2013,805415
+SC,Serviços,2013,664779
+SE,Adm Publica,2013,117062
+SE,Agricultura,2013,12325
+SE,Comercio,2013,65010
+SE,Industria,2013,88691
+SE,Serviços,2013,122502
+SP,Adm Publica,2013,1705685
+SP,Agricultura,2013,334824
+SP,Comercio,2013,2743141
+SP,Industria,2013,3573436
+SP,Serviços,2013,5667254
+TO,Adm Publica,2013,107780
+TO,Agricultura,2013,18013
+TO,Comercio,2013,47539
+TO,Industria,2013,34065
+TO,Serviços,2013,50139
+AC,Adm Publica,2014,53634
+AC,Agricultura,2014,3535
+AC,Comercio,2014,25091
+AC,Industria,2014,16303
+AC,Serviços,2014,35875
+AL,Adm Publica,2014,157566
+AL,Agricultura,2014,8866
+AL,Comercio,2014,91547
+AL,Industria,2014,122546
+AL,Serviços,2014,134051
+AM,Adm Publica,2014,191940
+AM,Agricultura,2014,3384
+AM,Comercio,2014,100797
+AM,Industria,2014,163913
+AM,Serviços,2014,181609
+AP,Adm Publica,2014,55004
+AP,Agricultura,2014,1003
+AP,Comercio,2014,27863
+AP,Industria,2014,15876
+AP,Serviços,2014,32994
+BA,Adm Publica,2014,603006
+BA,Agricultura,2014,94181
+BA,Comercio,2014,459125
+BA,Industria,2014,431511
+BA,Serviços,2014,784760
+CE,Adm Publica,2014,394144
+CE,Agricultura,2014,26553
+CE,Comercio,2014,271918
+CE,Industria,2014,374821
+CE,Serviços,2014,485011
+DF,Adm Publica,2014,525171
+DF,Agricultura,2014,7859
+DF,Comercio,2014,174834
+DF,Industria,2014,109387
+DF,Serviços,2014,504577
+ES,Adm Publica,2014,178428
+ES,Agricultura,2014,34018
+ES,Comercio,2014,205844
+ES,Industria,2014,205861
+ES,Serviços,2014,343577
+GO,Adm Publica,2014,323920
+GO,Agricultura,2014,90121
+GO,Comercio,2014,301539
+GO,Industria,2014,352302
+GO,Serviços,2014,446650
+MA,Adm Publica,2014,269635
+MA,Agricultura,2014,22316
+MA,Comercio,2014,150613
+MA,Industria,2014,105568
+MA,Serviços,2014,191070
+MG,Adm Publica,2014,894273
+MG,Agricultura,2014,265668
+MG,Comercio,2014,1011224
+MG,Industria,2014,1269476
+MG,Serviços,2014,1631265
+MS,Adm Publica,2014,131140
+MS,Agricultura,2014,69034
+MS,Comercio,2014,128022
+MS,Industria,2014,132516
+MS,Serviços,2014,192866
+MT,Adm Publica,2014,149160
+MT,Agricultura,2014,104663
+MT,Comercio,2014,193577
+MT,Industria,2014,160703
+MT,Serviços,2014,196427
+PA,Adm Publica,2014,369479
+PA,Agricultura,2014,54339
+PA,Comercio,2014,218220
+PA,Industria,2014,228688
+PA,Serviços,2014,277588
+PB,Adm Publica,2014,256448
+PB,Agricultura,2014,13281
+PB,Comercio,2014,105904
+PB,Industria,2014,139977
+PB,Serviços,2014,162855
+PE,Adm Publica,2014,403347
+PE,Agricultura,2014,46429
+PE,Comercio,2014,321031
+PE,Industria,2014,379053
+PE,Serviços,2014,618683
+PI,Adm Publica,2014,160149
+PI,Agricultura,2014,9222
+PI,Comercio,2014,86773
+PI,Industria,2014,72211
+PI,Serviços,2014,128999
+PR,Adm Publica,2014,477771
+PR,Agricultura,2014,104842
+PR,Comercio,2014,678057
+PR,Industria,2014,880675
+PR,Serviços,2014,1025789
+RJ,Adm Publica,2014,785101
+RJ,Agricultura,2014,22927
+RJ,Comercio,2014,881588
+RJ,Industria,2014,843792
+RJ,Serviços,2014,2107972
+RN,Adm Publica,2014,184711
+RN,Agricultura,2014,15834
+RN,Comercio,2014,120429
+RN,Industria,2014,127322
+RN,Serviços,2014,184559
+RO,Adm Publica,2014,122698
+RO,Agricultura,2014,12584
+RO,Comercio,2014,86198
+RO,Industria,2014,74424
+RO,Serviços,2014,78197
+RR,Adm Publica,2014,45468
+RR,Agricultura,2014,1540
+RR,Comercio,2014,18222
+RR,Industria,2014,8071
+RR,Serviços,2014,21019
+RS,Adm Publica,2014,474834
+RS,Agricultura,2014,83033
+RS,Comercio,2014,636626
+RS,Industria,2014,901723
+RS,Serviços,2014,1012765
+SC,Adm Publica,2014,263454
+SC,Agricultura,2014,45631
+SC,Comercio,2014,451360
+SC,Industria,2014,812693
+SC,Serviços,2014,700795
+SE,Adm Publica,2014,115399
+SE,Agricultura,2014,13589
+SE,Comercio,2014,68181
+SE,Industria,2014,88574
+SE,Serviços,2014,131095
+SP,Adm Publica,2014,1708393
+SP,Agricultura,2014,321171
+SP,Comercio,2014,2782754
+SP,Industria,2014,3473429
+SP,Serviços,2014,5825703
+TO,Adm Publica,2014,115314
+TO,Agricultura,2014,19281
+TO,Comercio,2014,49019
+TO,Industria,2014,37202
+TO,Serviços,2014,55097
+AC,Adm Publica,2015,57482
+AC,Agricultura,2015,3789
+AC,Comercio,2015,25376
+AC,Industria,2015,14008
+AC,Serviços,2015,36275
+AL,Adm Publica,2015,158403
+AL,Agricultura,2015,10467
+AL,Comercio,2015,88749
+AL,Industria,2015,112858
+AL,Serviços,2015,138994
+AM,Adm Publica,2015,190863
+AM,Agricultura,2015,4076
+AM,Comercio,2015,100810
+AM,Industria,2015,136083
+AM,Serviços,2015,178410
+AP,Adm Publica,2015,51786
+AP,Agricultura,2015,987
+AP,Comercio,2015,26470
+AP,Industria,2015,10924
+AP,Serviços,2015,31596
+BA,Adm Publica,2015,599742
+BA,Agricultura,2015,93260
+BA,Comercio,2015,454132
+BA,Industria,2015,388247
+BA,Serviços,2015,777023
+CE,Adm Publica,2015,408040
+CE,Agricultura,2015,27253
+CE,Comercio,2015,271525
+CE,Industria,2015,348200
+CE,Serviços,2015,487741
+DF,Adm Publica,2015,478339
+DF,Agricultura,2015,6381
+DF,Comercio,2015,169921
+DF,Industria,2015,92553
+DF,Serviços,2015,516678
+ES,Adm Publica,2015,177075
+ES,Agricultura,2015,33134
+ES,Comercio,2015,197288
+ES,Industria,2015,188296
+ES,Serviços,2015,328949
+GO,Adm Publica,2015,332327
+GO,Agricultura,2015,92458
+GO,Comercio,2015,297816
+GO,Industria,2015,328466
+GO,Serviços,2015,450330
+MA,Adm Publica,2015,271121
+MA,Agricultura,2015,20497
+MA,Comercio,2015,151276
+MA,Industria,2015,97284
+MA,Serviços,2015,183003
+MG,Adm Publica,2015,832512
+MG,Agricultura,2015,265323
+MG,Comercio,2015,988268
+MG,Industria,2015,1130820
+MG,Serviços,2015,1604193
+MS,Adm Publica,2015,130750
+MS,Agricultura,2015,70267
+MS,Comercio,2015,126487
+MS,Industria,2015,123102
+MS,Serviços,2015,195014
+MT,Adm Publica,2015,152946
+MT,Agricultura,2015,107031
+MT,Comercio,2015,192574
+MT,Industria,2015,145581
+MT,Serviços,2015,202690
+PA,Adm Publica,2015,373754
+PA,Agricultura,2015,53272
+PA,Comercio,2015,216644
+PA,Industria,2015,202304
+PA,Serviços,2015,279805
+PB,Adm Publica,2015,254867
+PB,Agricultura,2015,13000
+PB,Comercio,2015,106146
+PB,Industria,2015,126605
+PB,Serviços,2015,165823
+PE,Adm Publica,2015,396687
+PE,Agricultura,2015,47063
+PE,Comercio,2015,313066
+PE,Industria,2015,324039
+PE,Serviços,2015,589480
+PI,Adm Publica,2015,159440
+PI,Agricultura,2015,8851
+PI,Comercio,2015,89890
+PI,Industria,2015,64044
+PI,Serviços,2015,138236
+PR,Adm Publica,2015,484331
+PR,Agricultura,2015,108236
+PR,Comercio,2015,666085
+PR,Industria,2015,821876
+PR,Serviços,2015,1032676
+RJ,Adm Publica,2015,758373
+RJ,Agricultura,2015,21568
+RJ,Comercio,2015,860391
+RJ,Industria,2015,748932
+RJ,Serviços,2015,2059595
+RN,Adm Publica,2015,169593
+RN,Agricultura,2015,16588
+RN,Comercio,2015,118681
+RN,Industria,2015,114882
+RN,Serviços,2015,189711
+RO,Adm Publica,2015,120867
+RO,Agricultura,2015,13405
+RO,Comercio,2015,85054
+RO,Industria,2015,60898
+RO,Serviços,2015,78437
+RR,Adm Publica,2015,47788
+RR,Agricultura,2015,1541
+RR,Comercio,2015,19100
+RR,Industria,2015,8027
+RR,Serviços,2015,20108
+RS,Adm Publica,2015,466181
+RS,Agricultura,2015,85732
+RS,Comercio,2015,620547
+RS,Industria,2015,825792
+RS,Serviços,2015,1007187
+SC,Adm Publica,2015,257067
+SC,Agricultura,2015,44694
+SC,Comercio,2015,440785
+SC,Industria,2015,765901
+SC,Serviços,2015,705845
+SE,Adm Publica,2015,106662
+SE,Agricultura,2015,10767
+SE,Comercio,2015,67450
+SE,Industria,2015,83802
+SE,Serviços,2015,136091
+SP,Adm Publica,2015,1698603
+SP,Agricultura,2015,329250
+SP,Comercio,2015,2708901
+SP,Industria,2015,3194387
+SP,Serviços,2015,5766330
+TO,Adm Publica,2015,113834
+TO,Agricultura,2015,20156
+TO,Comercio,2015,49550
+TO,Industria,2015,33595
+TO,Serviços,2015,57510
